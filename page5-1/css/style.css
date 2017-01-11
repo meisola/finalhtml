@@ -162,13 +162,15 @@ margin-left:200px;
   margin: 5px 5px 5px 5px;
 }
 /*card4 end*/
-
-.clear{
-clear: both;
-}
 .fb-comments{
 margin-top:20px;	
 margin-left:300px;
+}
+
+
+
+.clear{
+clear: both;
 }
 
 
