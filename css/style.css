@@ -1,16 +1,102 @@
 html {
 
- background-color:black;
-width: 1280px;
+ background-color:white;
+width:100%;
+overflow-x: hidden;
 margin: auto;
 
 
 }
+
 .main-pic img{
-width: 1280px;
+width:100%;
+margin-top:0px;
+margin-left: 0px;
 
 }
 
+.site-nav ul {
+
+	margin-right: 600;
+  margin-top: 0px;
+
+  width:100%;
+background-color: black;
+opacity: 0.6;
+#e2957d
+}
+
+.line{
+  float: right;
+margin-right: 60PX;
+}
+
+.site-nav li {
+  border-left: 50px
+	list-style: none;
+	float: left;
+
+  margin-top: 3px;
+  padding-bottom: 5px;
+  letter-spacing: 2px;
+  margin-right: 40px ;
+  font-size: 100%;
+
+
+
+}
+
+.site-nav a:hover{
+color: #cd4757;
+background: black;
+border-radius: 5px;
+
+}
+
+.site-nav a {
+	display: flex;
+	color:#FEFEFF;
+	text-decoration:none;
+
+  "Roboto Slab", "Helvetica Neue", Helvetica, Arial, ;
+
+	padding: 10px 20px;
+	//border: 3px solid white;
+	border-bottom: none;
+
+font-family:sans-serif;
+}
+
+.v1{
+
+  margin-left: 13%;
+
+}
+#video2{
+  width:32%;height:300px;
+  margin-left: 40px;
+}
+#video1{
+  width:32%; height:300px;
+
+}
+#an{
+  color: gray;
+  margin-left: 640px;
+  font-family:monospace;
+}
+#video3{
+  width:38%; height:330px;
+  margin-left: 12.5%;
+}
+
+#g10{margin-left: 30px;
+
+}
+#g77
+{margin-left: 30px;
+height:330px; width:220px;
+}
 .ban-pic1-1 {
 position: absolute;
 
